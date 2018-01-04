@@ -7,3 +7,6 @@ https://www.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html
 https://www.codenotfound.com/github-add-remote-git-gui-windows.html
 
 https://github.com/Mogitha/Test-Repository.git
+
+
+https://git-scm.com/docs/git-add
