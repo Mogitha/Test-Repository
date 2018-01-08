@@ -23,3 +23,5 @@ https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 Good Site to Study : https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#exporting-via-git
 
 Clone Repository : https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
+Git Commmnd's --> https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
